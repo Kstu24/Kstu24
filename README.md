@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Kevin! I'm a currently finishing my time at Lambda School for iOS mobile development. I have been creating projects using Swift, Objective-C, and Python. A current intrest is learning the Vapor framework to create my first API. When I'm not coding my passions include fitness, playing music, and almost any outdoor activities.
+Hello, I'm Kevin! I'm a currently finishing my time at Lambda School for iOS mobile development. I have been creating projects using Swift, Objective-C, and Python. A current interest is learning the Vapor framework to create my first API. When I'm not coding my passions include fitness, playing music, and almost any outdoor activities.
 
 - 🔭 I’m currently working on ... CitySpire
 - 🌱 I’m currently learning ... Vapor
